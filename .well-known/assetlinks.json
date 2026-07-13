@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hanifa.englishshikkha",
+    "sha256_cert_fingerprints": ["F5:9B:F5:CE:E5:23:9A:40:10:4F:18:B6:1F:21:B3:20:B1:66:70:67:23:45:43:8D:DF:23:2B:3E:D6:43:D9:67"]
+  }
+}]
