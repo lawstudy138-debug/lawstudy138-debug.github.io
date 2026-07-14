@@ -1,8 +1,18 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.hanifa.englishshikkha",
-    "sha256_cert_fingerprints": ["F5:9B:F5:CE:E5:23:9A:40:10:4F:18:B6:1F:21:B3:20:B1:66:70:67:23:45:43:8D:DF:23:2B:3E:D6:43:D9:67"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hanifa.englishshikkha",
+      "sha256_cert_fingerprints": ["F5:9B:F5:CE:E5:23:9A:40:10:4F:18:B6:1F:21:B3:20:B1:66:70:67:23:45:43:8D:DF:23:2B:3E:D6:43:D9:67"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hanifa.lekharboard",
+      "sha256_cert_fingerprints": ["DD:2A:E8:9E:C2:1F:52:0E:8B:0E:B7:A8:3E:57:C4:C1:88:41:B1:0F:7C:8A:4A:CB:06:1A:91:62:BB:68:8D:2B"]
+    }
   }
-}]
+]
